@@ -1,0 +1,27 @@
+body {
+  width: 100vw; /* Ocupa toda a largura da tela */
+  height: 100vh; /* Ocupa toda a altura da tela */
+}
+
+.container {
+  width: 80%; /* Ocupará 80% da largura do elemento pai */
+  border: 2px solid black; /* Borda para mostrar a largura do elemento pai */
+}
+
+p {
+  font-size: 1.5em; /* 1.5x o tamanho da fonte do elemento pai */
+}
+
+html {
+  font-size: 16px;
+}
+h1 {
+  font-size: 2rem; /* 2x o tamanho da fonte do <html> */
+}
+thead {
+  background-color: rgb(56, 35, 175);
+  color: white;
+}
+.aa{
+    color: rgb(15, 182, 0);
+}
